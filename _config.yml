@@ -26,10 +26,10 @@ author:
   name             : "Niku Darafshi"
   pronouns         : # example: "she/her"  
   bio              : "Coastal Geomorphologist"
-  location         : "ESS"
-  employer         : "Stanford University"
+  location         : "EEPS"
+  employer         : "Washington University"
   uri              : # URL
-  email            : "nikud@stanford.edu" 
+  email            : "nikud@wustl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "nikudarafshi"
+  github           : "nikudarafsh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
