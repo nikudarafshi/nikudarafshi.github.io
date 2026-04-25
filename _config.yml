@@ -13,7 +13,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Niku Darafshi"
 description              : &description "Coastal Geomorphologist"
-url                      : https://ndarafshi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://nikudarafshi.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikudarafshi/ndarafshi.github.io"
 
