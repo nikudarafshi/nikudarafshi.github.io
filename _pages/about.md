@@ -12,6 +12,8 @@ I am a PhD student studying the mechanisms that drive coastal landscape evolutio
 
 I earned a B.A. from Williams College, where I completed a thesis on storm wave impacts on boulder deposits along rocky coasts in Ireland, as well as other research projects looking at debris flow hazards in New Zealand, and fluvial channel modification in Massachusetts. Before starting my Ph.D., I worked as a research assistant for the Sheshadri lab at Stanford. Outside of work, I enjoy biking, cross country skiing, and cooking.
 
+Have a project in mind or want to discuss how we can work together? I’d love to hear from you. The best way to reach me is my email niku@wustl.edu
+
 Photos from the field
 ======
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 16px;">
