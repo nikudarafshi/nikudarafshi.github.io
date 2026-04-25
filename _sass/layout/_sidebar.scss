@@ -79,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 84px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -97,6 +97,17 @@
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
+  }
+}
+
+@media (max-width: 768px) {
+  .author__avatar {
+    margin-top: 0 !important;
+    justify-content: center;
+  }
+
+  .author__content {
+    text-align: left;
   }
 }
 
