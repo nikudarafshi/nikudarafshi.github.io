@@ -4,8 +4,8 @@ permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  # - /about/
+  # - /about.html
 ---
 
 I am a PhD student studying the mechanisms that drive coastal landscape evolution, working with Dr. Claire Masteller. Right now I am focussing on the processes shaping rocky coastlines under changing ocean conditions and increasing rates of atmospheric rivers. My research integrates field observations, remote sensing, numerical modeling, and environmental seismology to better understand cliff retreat, wave-driven erosion, and long-term coastal resilience in a changing climate.
